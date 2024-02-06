@@ -3,7 +3,7 @@ public class Abstract_class_Example {
     public static void main(String[] args) {
         
         System.out.println("In Main");
-        System.out.println("Changes for the git");
+        System.out.println("Changes for git");
 // we can't create object for abstract class but we can create ref variable of it
         Car obj = new TataEv();
         obj.drive();
