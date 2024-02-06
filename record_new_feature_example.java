@@ -7,7 +7,6 @@ public class record_new_feature_example {
 
         System.out.println(p1 + "  " + p2);
 
-        Person p4;
         Person p3 = new Person(23,"Ram");
         Person p4 = new Person(21,"Sita");
         System.out.println(p3 + "  " + p4);
